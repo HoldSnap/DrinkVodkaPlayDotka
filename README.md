@@ -6,7 +6,6 @@
   </span>
 </p>
 
-<hr style="border-top: 1px solid #ccc;">
 
 <p align="left">
   <a href="https://www.codewars.com/users/Friski">
