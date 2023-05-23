@@ -36,7 +36,7 @@
   <p align="center">
     Жаль, нет с собой рундука. Ну да, сундук для рун – рундук
     <br />
-    <img src="https://tenor.com/ru/view/sf-dota-dota2-shadow-fiend-gif-26195644" alt="Dota 2" width="150" />
+    <img src="https://media.tenor.com/eCvQxd3qdWAAAAAC/sf-dota.gif" alt="Dota 2" width="150" />
   </p>
 </details>
 
