@@ -1,16 +1,17 @@
-### Hi there 👋
+# Привет, меня зовут Misha!
 
-<!--
-**DrinkVodkaPlayDotka/DrinkVodkaPlayDotka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![CodeWars](https://www.codewars.com/users/Friski/badges/large)](https://www.codewars.com/users/Friski) 
+## Языки
 
-Here are some ideas to get you started:
+![C#](https://simpleicons.org/icons/csharp.svg) 
+![Python](https://simpleicons.org/icons/python.svg) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Социальные сети и контакты
+
+- [![VK](https://simpleicons.org/icons/vk.svg)](https://vk.com/sharkdas) 
+![Discord](https://simpleicons.org/icons/discord.svg) *Snap#2613*
+- [![Telegram](https://simpleicons.org/icons/telegram.svg)](https://t.me/holdsnap00) 
+- [![Steam](https://simpleicons.org/icons/steam.svg)](https://steamcommunity.com/profiles/76561198322624145/) 
+
+Всем удачи)
