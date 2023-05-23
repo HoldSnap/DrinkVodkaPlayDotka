@@ -29,7 +29,7 @@
   </a>
 </p>
 
-<hr style="border-top: 1px solid #ccc;">
+
 
 ## Languages
 
