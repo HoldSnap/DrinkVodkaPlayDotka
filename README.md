@@ -35,9 +35,7 @@
   </a>
 </p>
 
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrinkVodkaPlayDotka&layout=compact" alt="Top Languages" width="200" />
 </p>
 
-<p align="center">Good luck to everyone! 🍀</p>
