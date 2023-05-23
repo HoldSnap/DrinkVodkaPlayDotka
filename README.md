@@ -22,7 +22,7 @@
   <a href="https://vk.com/sharkdas">
     <img src="https://simpleicons.org/icons/vk.svg" width="20" alt="VK" />
   </a>
-  <a href="https://t.me/holdsnap00">
+  <a href="https://t.me/your_telegram_username">
     <img src="https://simpleicons.org/icons/telegram.svg" width="20" alt="Telegram" />
   </a>
   <a href="https://steamcommunity.com/profiles/76561198322624145/">
@@ -42,15 +42,17 @@
 <hr style="border-top: 1px solid #ccc;">
 
 <p align="left">
-  <a href="https://github.com/DrinkVodkaPlayDotka">
+  <a href="https://github.com/your-username">
     <img src="https://github-readme-stats.vercel.app/api?username=DrinkVodkaPlayDotka&show_icons=true" alt="GitHub Stats" width="250" />
   </a>
 </p>
-
-<hr style="border-top: 1px solid #ccc;">
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrinkVodkaPlayDotka&layout=compact" alt="Top Languages" width="250" />
 </p>
 
 <hr style="border-top: 1px solid #ccc;">
+
+<p align="center">
+  <sub><sup>Made with ❤️ by Misha</sup></sub>
+</p>
