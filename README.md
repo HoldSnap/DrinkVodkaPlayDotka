@@ -31,18 +31,18 @@
 
 <p align="center">
   <a href="https://github.com/your-username">
-    <img src="https://github-readme-stats.vercel.app/api?username=DrinkVodkaPlayDotka&show_icons=true" alt="GitHub Stats" width="800" />
+    <img src="https://github-readme-stats.vercel.app/api?username=DrinkVodkaPlayDotka&show_icons=true" alt="GitHub Stats" width="600" />
   </a>
 </p>
 
 ### Additional Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrinkVodkaPlayDotka&layout=compact" alt="Top Languages" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrinkVodkaPlayDotka&layout=compact" alt="Top Languages" width="300" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DrinkVodkaPlayDotka" alt="GitHub Streak" width="800" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DrinkVodkaPlayDotka" alt="GitHub Streak" width="600" />
 </p>
 
 <p align="center">Good luck to everyone! 🍀</p>
