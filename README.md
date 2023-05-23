@@ -4,7 +4,7 @@
 
 <p align="left">
   <a href="https://www.codewars.com/users/Friski">
-    <img src="https://www.codewars.com/users/Friski/badges/large" alt="CodeWars" width="200" />
+    <img src="https://www.codewars.com/users/Friski/badges/large" alt="CodeWars" width="300" />
   </a>
 </p>
 
@@ -31,11 +31,11 @@
 
 <p align="center">
   <a href="https://github.com/your-username">
-    <img src="https://github-readme-stats.vercel.app/api?username=DrinkVodkaPlayDotka&show_icons=true" alt="GitHub Stats" width="400" />
+    <img src="https://github-readme-stats.vercel.app/api?username=DrinkVodkaPlayDotka&show_icons=true" alt="GitHub Stats" width="150" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrinkVodkaPlayDotka&layout=compact" alt="Top Languages" width="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrinkVodkaPlayDotka&layout=compact" alt="Top Languages" width="150" />
 </p>
 
