@@ -30,7 +30,7 @@
 ---
 
 <details>
-  <summary><strong>🔒 Секретная кнопка</strong></summary>
+  <summary><strong>🔒 Secret Button</strong></summary>
   <p align="center">
     Жаль, нет с собой рундука. Ну да, сундук для рун – рундук
     <br />
