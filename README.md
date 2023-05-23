@@ -33,14 +33,12 @@
 
 <details>
   <summary>Click to reveal a hidden message</summary>
-  <p align="center">You found a hidden message! 🎉</p>
+  <p align="center">
+    Жаль, нет с собой рундука. Ну да, сундук для рун – рундук
+    <br />
+    <img src="https://img.icons8.com/dotty/80/000000/chest.png" alt="Chest" />
+  </p>
 </details>
-
----
-
-<blockquote align="center">
-  "The only way to do great work is to love what you do." - Steve Jobs
-</blockquote>
 
 ---
 
