@@ -36,7 +36,7 @@
   <p align="center">
     Жаль, нет с собой рундука. Ну да, сундук для рун – рундук
     <br />
-    ![Dota 2](https://img.icons8.com/?size=512&id=35611&format=png)
+    <img src="https://img.icons8.com/?size=512&id=35611&format=png" alt="Dota 2" width="200" />
   </p>
 </details>
 
