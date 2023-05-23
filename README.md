@@ -3,15 +3,15 @@
 [![CodeWars](https://www.codewars.com/users/Friski/badges/large)](https://www.codewars.com/users/Friski) 
 ## Языки
 
-![C#](https://simpleicons.org/icons/csharp.svg =100x) 
-![Python](https://simpleicons.org/icons/python.svg =100x) 
+<img src="https://simpleicons.org/icons/csharp.svg" width="100" alt="C#" /> 
+<img src="https://simpleicons.org/icons/python.svg" width="100" alt="Python" />
 
 
 ## Социальные сети и контакты
 
-- [![VK](https://simpleicons.org/icons/vk.svg =50x)](https://vk.com/sharkdas) 
-![Discord](https://simpleicons.org/icons/discord.svg =50x) *Snap#2613*
-- [![Telegram](https://simpleicons.org/icons/telegram.svg =50x)](https://t.me/holdsnap00) 
-- [![Steam](https://simpleicons.org/icons/steam.svg =50x)](https://steamcommunity.com/profiles/76561198322624145/) 
+[<img src="https://simpleicons.org/icons/vk.svg" width="50" alt="VK" />](https://vk.com/sharkdas) 
+<img src="https://simpleicons.org/icons/discord.svg" width="50" alt="Discord" /> *Snap#2613*
+[<img src="https://simpleicons.org/icons/telegram.svg" width="50" alt="Telegram" />](https://t.me/holdsnap00) 
+[<img src="https://simpleicons.org/icons/steam.svg" width="50" alt="Steam" />](https://steamcommunity.com/profiles/76561198322624145/) 
 
 Всем удачи)
