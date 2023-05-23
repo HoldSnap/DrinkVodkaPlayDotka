@@ -1,6 +1,6 @@
 <p align="center">
   <span style="background: linear-gradient(-45deg, #ff9a9e, #fad0c4, #fad0c4, #ff9a9e); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold; font-size: 36px;">
-    <a href="https://t.me/your_telegram_username" style="color: blue; text-decoration: underline;">Hello, I'm Misha! 👋</a>
+    <a href="https://t.me/holdsnap00" style="color: blue; text-decoration: underline;">Hello, I'm <span style="color: blue;">Misha</span>! 👋</a>
   </span>
 </p>
 
