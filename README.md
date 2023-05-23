@@ -4,7 +4,7 @@
 
 <p align="left">
   <a href="https://www.codewars.com/users/Friski">
-    <img src="https://www.codewars.com/users/Friski/badges/large" alt="CodeWars" width="180" />
+    <img src="https://www.codewars.com/users/Friski/badges/large" alt="CodeWars" width="200" />
   </a>
 </p>
 
