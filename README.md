@@ -2,7 +2,7 @@
 
 # Hello, I'm [Misha](https://t.me/holdsnap00)! 👋
 
-![CodeWars](https://img.shields.io/badge/-CodeWars-brightgreen?style=flat-square&logo=codewars)
+![CodeWars](https://www.codewars.com/users/Friski/badges/large)
 
 ---
 
