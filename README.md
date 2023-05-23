@@ -4,7 +4,10 @@
 
 <p align="left">
   <a href="https://www.codewars.com/users/Friski">
-    <img src="https://www.codewars.com/users/Friski/badges/large" alt="CodeWars" width="120" />
+    <img src="https://www.codewars.com/users/Friski/badges/large" alt="CodeWars" width="150" />
+  </a>
+  <a href="https://github.com/your-username">
+    <img src="https://github-readme-stats.vercel.app/api?username=DrinkVodkaPlayDotka&show_icons=true" alt="GitHub Stats" width="400" />
   </a>
 </p>
 
