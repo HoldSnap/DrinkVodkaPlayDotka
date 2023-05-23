@@ -1,5 +1,3 @@
----
-
 # Hello, I'm [Misha](https://t.me/holdsnap00)! 👋
 
 ![CodeWars](https://www.codewars.com/users/Friski/badges/large)
@@ -32,7 +30,7 @@
 ---
 
 <details>
-  <summary>Click to reveal a hidden message</summary>
+  <summary>Секретная кнопка</summary>
   <p align="center">
     Жаль, нет с собой рундука. Ну да, сундук для рун – рундук
     <br />
