@@ -1,8 +1,12 @@
+<hr style="border-top: 1px solid #ccc;">
+
 <p align="center">
-  <span style="background: linear-gradient(-45deg, #ff9a9e, #fad0c4, #fad0c4, #ff9a9e); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold; font-size: 80px;">
+  <span style="background: linear-gradient(-45deg, #ff9a9e, #fad0c4, #fad0c4, #ff9a9e); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold; font-size: 120px;">
     Hello, I'm <a href="https://t.me/holdsnap00" style="color: blue; text-decoration: underline;">Misha</a>! 👋
   </span>
 </p>
+
+<hr style="border-top: 1px solid #ccc;">
 
 <p align="left">
   <a href="https://www.codewars.com/users/Friski">
@@ -10,19 +14,23 @@
   </a>
 </p>
 
+<hr style="border-top: 1px solid #ccc;">
+
 ## Social Networks and Contacts
 
 <p align="left">
   <a href="https://vk.com/sharkdas">
     <img src="https://simpleicons.org/icons/vk.svg" width="20" alt="VK" />
   </a>
-  <a href="https://t.me/your_telegram_username">
+  <a href="https://t.me/holdsnap00">
     <img src="https://simpleicons.org/icons/telegram.svg" width="20" alt="Telegram" />
   </a>
   <a href="https://steamcommunity.com/profiles/76561198322624145/">
     <img src="https://simpleicons.org/icons/steam.svg" width="20" alt="Steam" />
   </a>
 </p>
+
+<hr style="border-top: 1px solid #ccc;">
 
 ## Languages
 
@@ -31,12 +39,18 @@
   <img src="https://simpleicons.org/icons/python.svg" width="30" alt="Python" />
 </p>
 
+<hr style="border-top: 1px solid #ccc;">
+
 <p align="left">
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/DrinkVodkaPlayDotka">
     <img src="https://github-readme-stats.vercel.app/api?username=DrinkVodkaPlayDotka&show_icons=true" alt="GitHub Stats" width="250" />
   </a>
 </p>
 
+<hr style="border-top: 1px solid #ccc;">
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrinkVodkaPlayDotka&layout=compact" alt="Top Languages" width="250" />
 </p>
+
+<hr style="border-top: 1px solid #ccc;">
