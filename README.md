@@ -1,21 +1,23 @@
-# <p align="center">Hello, I'm Misha! 👋</p>
-
 <p align="center">
+  <span style="background: linear-gradient(-45deg, #ff9a9e, #fad0c4, #fad0c4, #ff9a9e); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold; font-size: 32px;">Hello, I'm Misha! 👋</span>
+</p>
+
+<p align="left">
   <a href="https://www.codewars.com/users/Friski">
-    <img src="https://www.codewars.com/users/Friski/badges/large" alt="CodeWars" />
+    <img src="https://www.codewars.com/users/Friski/badges/large" alt="CodeWars" width="100" />
   </a>
 </p>
 
-## <p align="center">Languages</p>
+## Languages
 
-<p align="center">
-  <img src="https://simpleicons.org/icons/csharp.svg" width="60" alt="C#" />
-  <img src="https://simpleicons.org/icons/python.svg" width="60" alt="Python" />
+<p align="left">
+  <img src="https://simpleicons.org/icons/csharp.svg" width="40" alt="C#" />
+  <img src="https://simpleicons.org/icons/python.svg" width="40" alt="Python" />
 </p>
 
 ## Social Networks and Contacts
 
-<p align="center">
+<p align="left">
   <a href="https://vk.com/sharkdas">
     <img src="https://simpleicons.org/icons/vk.svg" width="30" alt="VK" />
   </a>
