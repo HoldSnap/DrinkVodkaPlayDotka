@@ -17,7 +17,7 @@
 
 ## Social Networks and Contacts
 
-<p align="left">
+<p align="left" style="font-size: 16px;">
   <a href="https://vk.com/sharkdas">
     <img src="https://simpleicons.org/icons/vk.svg" width="20" alt="VK" />
   </a>
@@ -29,11 +29,11 @@
   </a>
 </p>
 
-
+<hr style="border-top: 1px solid #ccc;">
 
 ## Languages
 
-<p align="left">
+<p align="left" style="font-size: 16px;">
   <img src="https://simpleicons.org/icons/csharp.svg" width="30" alt="C#" />
   <img src="https://simpleicons.org/icons/python.svg" width="30" alt="Python" />
 </p>
