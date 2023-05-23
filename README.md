@@ -7,7 +7,6 @@
 ## Социальные сети и контакты
 
 [<img src="https://simpleicons.org/icons/vk.svg" width="30" alt="VK" />](https://vk.com/sharkdas) 
-<img src="https://simpleicons.org/icons/discord.svg" width="30" alt="Discord" /> Snap#2613
 [<img src="https://simpleicons.org/icons/telegram.svg" width="30" alt="Telegram" />](https://t.me/holdsnap00) 
 [<img src="https://simpleicons.org/icons/steam.svg" width="30" alt="Steam" />](https://steamcommunity.com/profiles/76561198322624145/) 
 
