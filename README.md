@@ -4,7 +4,7 @@
 
 <p align="left">
   <a href="https://www.codewars.com/users/Friski">
-    <img src="https://www.codewars.com/users/Friski/badges/large" alt="CodeWars" width="200" />
+    <img src="https://www.codewars.com/users/Friski/badges/large" alt="CodeWars" width="400" />
   </a>
 </p>
 
@@ -31,17 +31,18 @@
 
 <p align="center">
   <a href="https://github.com/your-username">
-    <img src="https://github-readme-stats.vercel.app/api?username=DrinkVodkaPlayDotka&show_icons=true" alt="GitHub Stats" width="600" />
+    <img src="https://github-readme-stats.vercel.app/api?username=DrinkVodkaPlayDotka&show_icons=true" alt="GitHub Stats" width="800" />
   </a>
 </p>
 
+### Additional Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrinkVodkaPlayDotka&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrinkVodkaPlayDotka&layout=compact" alt="Top Languages" width="400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DrinkVodkaPlayDotka&layout=compact" alt="Wakatime Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DrinkVodkaPlayDotka" alt="GitHub Streak" width="800" />
 </p>
 
 <p align="center">Good luck to everyone! 🍀</p>
