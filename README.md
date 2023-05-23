@@ -1,4 +1,4 @@
-# <p align="center"><span style="background: linear-gradient(-45deg, #ff9a9e, #fad0c4, #fad0c4, #ff9a9e); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold; font-size: 32px;">Hello, my name is Misha!</span></p>
+# <p align="center"><span style="background: linear-gradient(-45deg, #ff9a9e, #fad0c4, #fad0c4, #ff9a9e); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold; font-size: 32px;">Hello, my name is <span style="background: linear-gradient(-45deg, #ff9a9e, #fad0c4, #fad0c4, #ff9a9e); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Misha</span>!</span></p>
 
 [![CodeWars](https://www.codewars.com/users/Friski/badges/large)](https://www.codewars.com/users/Friski) 
 
