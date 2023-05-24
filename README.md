@@ -21,7 +21,7 @@
 
 <p align="left">
   <a href="https://www.jetbrains.com/pycharm/">
-    <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/jetbrains_pycharm_button_icon_151876.png" alt="PyCharm" width="50">
+    <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/PyCharm.svg" alt="PyCharm" width="50">
   </a>
   <a href="https://en.wikipedia.org/wiki/Cmd.exe">
     <img src="https://cdn.icon-icons.com/icons2/37/PNG/512/console_3350.png" alt="CMD" width="50">
