@@ -6,12 +6,12 @@
 
 ## Languages
 
-<p align="center">
+<p align="left">
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
-    <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" alt="C#" width="100">
+    <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" alt="C#" width="50">
   </a>
   <a href="https://www.python.org/">
-    <img src="https://cdn-icons-png.flaticon.com/512/1387/1387537.png" alt="Python" width="100">
+    <img src="https://cdn-icons-png.flaticon.com/512/1387/1387537.png" alt="Python" width="50">
   </a>
 </p>
 
@@ -19,18 +19,18 @@
 
 ## Tools
 
-<p align="center">
+<p align="left">
   <a href="https://www.jetbrains.com/pycharm/">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="PyCharm" width="100">
+    <img src="https://cdn.icon-icons.com/icons2/3914/PNG/512/pycharm_logo_icon_248746.png" alt="PyCharm" width="50">
   </a>
   <a href="https://en.wikipedia.org/wiki/Cmd.exe">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732150.png" alt="CMD" width="100">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732150.png" alt="CMD" width="50">
   </a>
   <a href="https://www.jetbrains.com/rider/">
-    <img src="https://cdn-icons-png.flaticon.com/512/888/888853.png" alt="Rider" width="100">
+    <img src="https://cdn-icons-png.flaticon.com/512/888/888853.png" alt="Rider" width="50">
   </a>
   <a href="https://code.visualstudio.com/">
-    <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" alt="VS Code" width="100">
+    <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" alt="VS Code" width="50">
   </a>
 </p>
 
