@@ -30,7 +30,7 @@
     <img src="https://migsoft.ru/upload/iblock/19e/19e0f71cef493cfd120fc755d94b7636.png" alt="Rider" width="50">
   </a>
   <a href="https://code.visualstudio.com/">
-    <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_visual_studio_code_alt_macos_bigsur_icon_189953.png" alt="VS Code" width="50">
+    <img src="https://logo-base.com/logo/visual_studio_code_logo_icon.png" alt="VS Code" width="50">
   </a>
 </p>
 
