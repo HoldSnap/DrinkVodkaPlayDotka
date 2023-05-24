@@ -21,16 +21,16 @@
 
 <p align="left">
   <a href="https://www.jetbrains.com/pycharm/">
-    <img src="https://cdn-icons-png.flaticon.com/512/3230/3230551.png" alt="PyCharm" width="50">
+    <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/jetbrains_pycharm_button_icon_151876.png" alt="PyCharm" width="50">
   </a>
   <a href="https://en.wikipedia.org/wiki/Cmd.exe">
-    <img src="https://cdn-icons-png.flaticon.com/512/291/291203.png" alt="CMD" width="50">
+    <img src="https://cdn.icon-icons.com/icons2/37/PNG/512/console_3350.png" alt="CMD" width="50">
   </a>
   <a href="https://www.jetbrains.com/rider/">
-    <img src="https://cdn-icons-png.flaticon.com/512/3032/3032616.png" alt="Rider" width="50">
+    <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/jetbrains_rider_button_icon_151875.png" alt="Rider" width="50">
   </a>
   <a href="https://code.visualstudio.com/">
-    <img src="https://cdn-icons-png.flaticon.com/512/617/617557.png" alt="VS Code" width="50">
+    <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_visual_studio_code_alt_macos_bigsur_icon_189953.png" alt="VS Code" width="50">
   </a>
 </p>
 
