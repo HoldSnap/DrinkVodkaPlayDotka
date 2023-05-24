@@ -1,6 +1,6 @@
 # Hi, I'm [Misha](https://t.me/holdsnap00)! 👋
 
-![CodeWars](https://www.codewars.com/users/Friski/badges/large)
+[![CodeWars](https://www.codewars.com/users/Friski/badges/large)](https://www.codewars.com/users/Friski)
 
 ---
 
