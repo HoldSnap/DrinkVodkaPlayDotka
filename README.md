@@ -8,10 +8,10 @@
 
 <p align="center">
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
-    <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" >
+    <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" alt="C#" width="100">
   </a>
   <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" >
+    <img src="https://cdn-icons-png.flaticon.com/512/1387/1387537.png" alt="Python" width="100">
   </a>
 </p>
 
