@@ -63,11 +63,11 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DrinkVodkaPlayDotka&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DrinkVodkaPlayDotka&show_icons=true&theme=dark)
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DrinkVodkaPlayDotka&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DrinkVodkaPlayDotka&layout=compact&theme=dark)
 
 ---
 
