@@ -63,20 +63,4 @@
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DrinkVodkaPlayDotka&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
-
----
-
-## Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrinkVodkaPlayDotka&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
----
-
 Made with ❤️ by Misha
